@@ -2,6 +2,11 @@ DrumKit Project
 Description:
 The DrumKit project is a simple web application that simulates a virtual drum kit. Users can play drum sounds by clicking on the corresponding buttons or using keyboard keys. The project utilizes HTML, CSS, and JavaScript to create an interactive and engaging drumming experience.
 
+### Usage
+- Click on the drum buttons to play sounds.
+- Press the keys 'w', 'a', 's', 'd', 'j', 'k', and 'l' on your keyboard to trigger corresponding drum sounds.
+
+
 Features:
 
 Virtual drum kit with various percussion sounds.
